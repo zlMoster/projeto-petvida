@@ -1,0 +1,102 @@
+/* =========================================
+   1. VARIÁVEIS DA IDENTIDADE VISUAL
+========================================= */
+:root {
+    --verde-principal: #1b5e20; /* Verde escuro elegante */
+    --verde-hover: #124016;     /* Verde mais escuro para hover */
+    --verde-fundo: #e8f5e9;     /* Verde bem clarinho para fundos */
+    --texto-padrao: #444444;
+}
+
+body {
+    background-color: #f8f9fa;
+    color: var(--texto-padrao);
+}
+
+/* =========================================
+   2. FORÇANDO CORES GLOBAIS
+========================================= */
+.navbar {
+    background-color: var(--verde-principal) !important;
+}
+
+h1, h2, h3, h4, h5 {
+    color: var(--verde-principal) !important;
+}
+
+/* =========================================
+   3. PADRONIZANDO TODOS OS BOTÕES
+========================================= */
+.btn {
+    font-weight: bold !important;
+    transition: all 0.3s ease;
+}
+
+/* Transforma botões primários em verde escuro */
+.btn-primary {
+    background-color: var(--verde-principal) !important;
+    border-color: var(--verde-principal) !important;
+    color: white !important;
+}
+
+.btn-primary:hover {
+    background-color: var(--verde-hover) !important;
+    border-color: var(--verde-hover) !important;
+}
+
+/* Transforma botões outline em verde escuro */
+.btn-outline-primary {
+    background-color: transparent !important;
+    color: var(--verde-principal) !important;
+    border: 2px solid var(--verde-principal) !important;
+}
+
+.btn-outline-primary:hover {
+    background-color: var(--verde-principal) !important;
+    color: white !important;
+}
+
+/* =========================================
+   4. DETALHES DE COMPONENTES E CARDS
+========================================= */
+.rounded-circle {
+    border-color: var(--verde-principal) !important;
+}
+
+.card-cachorro-img {
+    height: 250px;
+    object-fit: cover;
+    border-bottom: 3px solid var(--verde-principal);
+}
+
+.card {
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1) !important;
+}
+
+/* =========================================
+   5. FORMULÁRIOS E DOAÇÕES
+========================================= */
+.pix-container {
+    background-color: var(--verde-fundo);
+    border: 2px dashed var(--verde-principal);
+    border-radius: 8px;
+    padding: 20px;
+    text-align: center;
+}
+
+.chave-pix {
+    color: var(--verde-principal);
+    font-size: 1.2rem;
+    font-weight: bold;
+    word-break: break-all;
+}
+
+.form-control:focus, .form-select:focus {
+    border-color: var(--verde-principal) !important;
+    box-shadow: 0 0 0 0.25rem rgba(27, 94, 32, 0.25) !important; 
+}
