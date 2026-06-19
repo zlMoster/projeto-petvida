@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "nome": "Thor",
+    "idade": "2 anos",
+    "raca": "Labrador",
+    "porte": "grande",
+    "vacinas": "Todas em dia",
+    "castrado": "sim",
+    "personalidade": "Brincalhão, leal e muito amigável. Ama crianças e outros cachorros.",
+    "foto": "https://images.unsplash.com/photo-1552053831-71594a27632d?w=400&h=300&fit=crop",
+    "status": "disponivel"
+  },
+  {
+    "id": 2,
+    "nome": "Luna",
+    "idade": "1 ano",
+    "raca": "SRD (Sem Raça Definida)",
+    "porte": "medio",
+    "vacinas": "Todas em dia",
+    "castrado": "sim",
+    "personalidade": "Carinhosa, calma e adora colo. Ideal para apartamento.",
+    "foto": "https://images.unsplash.com/photo-1598136490941-30d885318efe?w=400&h=300&fit=crop",
+    "status": "disponivel"
+  },
+  {
+    "id": 3,
+    "nome": "Bolinha",
+    "idade": "4 meses",
+    "raca": "Vira-lata",
+    "porte": "pequeno",
+    "vacinas": "Primeiras doses",
+    "castrado": "nao",
+    "personalidade": "Energético, curioso e muito esperto. Aprende comandos rápido.",
+    "foto": "https://images.unsplash.com/photo-1543466835-00a7907e9de1?w=400&h=300&fit=crop",
+    "status": "disponivel"
+  },
+  {
+    "id": 4,
+    "nome": "Mel",
+    "idade": "3 anos",
+    "raca": "Golden Retriever",
+    "porte": "grande",
+    "vacinas": "Todas em dia",
+    "castrado": "sim",
+    "personalidade": "Doce, paciente e excelente com crianças. Ótima companheira.",
+    "foto": "https://images.unsplash.com/photo-1553737571-9b0bf0e2c4e6?w=400&h=300&fit=crop",
+    "status": "disponivel"
+  },
+  {
+    "id": 5,
+    "nome": "Pipoca",
+    "idade": "8 meses",
+    "raca": "SRD",
+    "porte": "pequeno",
+    "vacinas": "Todas em dia",
+    "castrado": "nao",
+    "personalidade": "Alegre, sociável e adora brincar com bolinhas.",
+    "foto": "https://images.unsplash.com/photo-1583511655857-d19b40a7a54e?w=400&h=300&fit=crop",
+    "status": "disponivel"
+  },
+  {
+    "id": 6,
+    "nome": "Zeca",
+    "idade": "5 anos",
+    "raca": "Beagle",
+    "porte": "medio",
+    "vacinas": "Todas em dia",
+    "castrado": "sim",
+    "personalidade": "Tranquilo, obediente e muito companheiro. Já habituado com rotina.",
+    "foto": "https://images.unsplash.com/photo-1568572933382-74d440642117?w=400&h=300&fit=crop",
+    "status": "disponivel"
+  },
+  {
+    "id": 7,
+    "nome": "Amora",
+    "idade": "6 meses",
+    "raca": "Vira-lata Peludo",
+    "porte": "medio",
+    "vacinas": "Todas em dia",
+    "castrado": "nao",
+    "personalidade": "Brincalhona, afetuosa e ama passeios no parque.",
+    "foto": "https://images.unsplash.com/photo-1534361960057-19889db9621e?w=400&h=300&fit=crop",
+    "status": "disponivel"
+  },
+  {
+    "id": 8,
+    "nome": "Rex",
+    "idade": "7 anos",
+    "raca": "Pastor Alemão",
+    "porte": "grande",
+    "vacinas": "Todas em dia",
+    "castrado": "sim",
+    "personalidade": "Protetor, leal e muito inteligente. Precisa de espaço e atividade física.",
+    "foto": "https://images.unsplash.com/photo-1560743641-3914f2c45636?w=400&h=300&fit=crop",
+    "status": "disponivel"
+  }
+]

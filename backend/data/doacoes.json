@@ -1,0 +1,20 @@
+{
+  "financeira": {
+    "chave_pix": "ongsjpa@email.com.br",
+    "qr_code_url": "https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=00020126360014BR.GOV.BCB.PIX0114ongsjpa@email.com.br520400005303986540510.0025802BR5913ONG SJPA6008BRASILIA62070503***6304A2D3",
+    "descricao": "Ajude a custear tratamentos veterinários, remédios e a manutenção do nosso abrigo."
+  },
+  "fisica": {
+    "items": [
+      "Ração para adultos e filhotes",
+      "Medicamentos e antipulgas",
+      "Produtos de limpeza",
+      "Cobertores e brinquedos",
+      "Coleiras e guias",
+      "Tapetes higiênicos",
+      "Areia sanitária",
+      "Comedouros e bebedouros"
+    ],
+    "ponto_arrecadacao": "Rua das Flores, 123 - Centro, São Paulo - SP (Seg a Sex, 9h às 18h)"
+  }
+}
