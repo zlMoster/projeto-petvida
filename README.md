@@ -4,6 +4,6 @@ Nome do Líder:
 -Gustavo Henrique Nunes de Oliveira / gusthenri3110@gmail.com
 Nome dos Integrantes:
 -Nicolas Guedes de Andrade / nerdnick32@gmail.com 
--
+-Otavio Gonçalves Dias da Costa
 -
 -
