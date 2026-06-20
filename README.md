@@ -6,4 +6,6 @@ Nome dos Integrantes:
 -Nicolas Guedes de Andrade / nerdnick32@gmail.com 
 -Otavio Gonçalves Dias da Costa / otaviogon21@gmail.com
 -Matheus Alves Costa / matheuscostaalves200@gmail.com
--
+
+Ruan de Toledo Barros Lamarca
+lamarcaruan@gmail.com 
